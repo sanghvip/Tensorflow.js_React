@@ -1,3 +1,5 @@
+# Tensorflow.js_ React is a repository which has a basic react app for question and answering using the pretrainded BERT model. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
